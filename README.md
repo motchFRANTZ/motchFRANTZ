@@ -2,7 +2,7 @@ Olá, me chamo Alex Frantz! Seja bem-vindo ao meu github!
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motchFRANTZ&show_icons=true&theme=dark&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motchFRANTZ&layout=compact&langs_count=16&theme=dark&hide_progress=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motchFRANTZ&layout=compact&langs_count=16&theme=dark">
 </div>
 
 <div style="display: inline_block"><br>
