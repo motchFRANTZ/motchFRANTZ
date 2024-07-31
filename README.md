@@ -1,7 +1,7 @@
 Olá, me chamo Alex Frantz! Seja bem-vindo ao meu github! 
 
 <div>
-  <a href="https://beacons.ia/motchFRANTZ">
+  <a href="https://beacons.ai/motchFRANTZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=motchFRANTZ&show_icons=true&theme=dark&include_all_commits=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motchFRANTZ&layout=compact&langs_count=16&theme=dark">
 </div>
