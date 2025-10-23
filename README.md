@@ -1,3 +1,5 @@
+<div align="center">
+
 # Olá! Eu sou Alex Frantz 👋
 
 ### Desenvolvedor **PHP** na área profissional, com paixão por **Python** e foco em Backend.
@@ -16,7 +18,7 @@ Atualmente, dedico-me à construção de soluções robustas com **PHP**, mas ad
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motchFRANTZ&layout=compact&theme=gruvbox_light&langs_count=8)
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <img title="PHP" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img title="Python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img title="Laravel" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
@@ -33,7 +35,7 @@ Atualmente, dedico-me à construção de soluções robustas com **PHP**, mas ad
 
 ### Conecte-se Comigo!
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/alex-frantz-12108b260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/alexfraantz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:alexgfrantz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -43,6 +45,5 @@ Atualmente, dedico-me à construção de soluções robustas com **PHP**, mas ad
 <br>
 
 ---
-<div align="center">
   Feito com ❤️ por Alex Frantz
 </div>
