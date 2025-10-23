@@ -1,8 +1,8 @@
 # Olá! Eu sou Alex Frantz 👋
 
-### Desenvolvedor com paixão por **Python**, **PHP** e **Análise de Dados**.
+### Desenvolvedor **PHP** na área profissional, com paixão por **Python** e foco em Backend.
 
-Sou um profissional focado em construir soluções robustas e escaláveis, navegando entre o backend e o front-end. Atualmente, explorando o poder do Flask, Laravel e React!
+Atualmente, dedico-me à construção de soluções robustas com **PHP**, mas adoro explorar o ecossistema Python, desenvolvendo projetos pessoais utilizando **Django** e **Flask**.
 
 ---
 
@@ -16,12 +16,13 @@ Sou um profissional focado em construir soluções robustas e escaláveis, naveg
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motchFRANTZ&layout=compact&theme=gruvbox_light&langs_count=8)
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <img title="Python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <img title="PHP" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img title="JavaScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicons@latest/icons/javascript/javascript-original.svg" />
-  <img title="Flask" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img title="Python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img title="Laravel" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img title="Django" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
+  <img title="Flask" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+  <img title="JavaScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img title="SQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img title="Jupyter" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
   <img title="HTML5" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
