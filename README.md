@@ -2,48 +2,72 @@
 
 # Olá! Eu sou Alex Frantz 👋
 
-### Desenvolvedor **PHP** na área profissional, com paixão por **Python** e foco em Backend.
+### Desenvolvedor **Full Stack Júnior**
+**PHP** na experiência profissional • **React & JavaScript** no foco atual • **Python** em projetos pessoais
 
-Atualmente, dedico-me à construção de soluções robustas com **PHP**, mas adoro explorar o ecossistema Python, desenvolvendo projetos pessoais utilizando **Django** e **Flask**.
+Sou estudante de Ciência da Computação e atuo profissionalmente com **PHP**, desenvolvendo soluções web.
+Atualmente estou aprofundando meus estudos em **React**, criando projetos front-end para consolidar conceitos modernos.
+Também desenvolvo projetos pessoais com **Python**, utilizando **Django** e **Flask**.
 
 ---
 
-### Minhas Estatísticas no GitHub
+### 🚀 O que estou fazendo agora
+📌 Estudando **React** e boas práticas de front-end  
+📌 Criando projetos para portfólio  
+📌 Evoluindo em arquitetura, organização de código e Git
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motchFRANTZ&show_icons=true&theme=gruvbox_light&count_private=true)](https://github.com/motchFRANTZ/github-readme-stats)
+---
+
+### 📊 Estatísticas no GitHub
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motchFRANTZ&show_icons=true&theme=gruvbox_light&count_private=true)](https://github.com/motchFRANTZ)
 
 <br>
 
-### Linguagens e Tecnologias Principais
+### 🧠 Tecnologias & Ferramentas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motchFRANTZ&layout=compact&theme=gruvbox_light&langs_count=8)
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <img title="React" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img title="JavaScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img title="PHP" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img title="Python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img title="Laravel" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+  <img title="Python" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img title="Django" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img title="Flask" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-  <img title="JavaScript" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img title="SQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img title="Jupyter" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+  <img title="MySQL" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img title="HTML5" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img title="CSS3" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img title="Git" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
 ---
 
-### Conecte-se Comigo!
+### ⭐ Projetos em destaque
+🔹 Projetos em **React** focados em componentes, estado e organização  
+🔹 Sistemas web em **PHP**  
+🔹 Projetos pessoais em **Python** para estudo e experimentação
+
+👉 Veja os repositórios fixados abaixo ⬇️
+
+---
+
+### 🤝 Conecte-se comigo
 
 <div>
-  <a href="https://www.linkedin.com/in/alex-frantz-12108b260/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/alexfraantz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:alexgfrantz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/alex-frantz-12108b260/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:alexgfrantz@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 <br>
-<br>
 
 ---
-  Feito com ❤️ por Alex Frantz
+
+Feito com ❤️ por Alex Frantz
+
 </div>
