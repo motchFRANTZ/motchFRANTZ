@@ -5,16 +5,17 @@
 ### Desenvolvedor **Full Stack Júnior**
 **PHP** na experiência profissional • **React & JavaScript** no foco atual • **Python** em projetos pessoais
 
-Sou estudante de Ciência da Computação e atuo profissionalmente com **PHP**, desenvolvendo soluções web.
+Sou estudante de Ciência da Computação, atualmente no 6º semestre, e atuo profissionalmente com **PHP**, desenvolvendo soluções web para um escritório de contabilidade.
 Atualmente estou aprofundando meus estudos em **React**, criando projetos front-end para consolidar conceitos modernos.
 Também desenvolvo projetos pessoais com **Python**, utilizando **Django** e **Flask**.
 
 ---
 
 ### 🚀 O que estou fazendo agora
-📌 Estudando **React** e boas práticas de front-end  
-📌 Criando projetos para portfólio  
-📌 Evoluindo em arquitetura, organização de código e Git
+📌 Front-end Avançado: Aprofundando em React (Hooks, Context API, Design Patterns) e gerenciamento de estado complexo com React Query e Redux.
+📌 Arquitetura & Engenharia: Estudando o funcionamento interno do React (Reconciliation e Virtual DOM) para garantir performance e renderizações otimizadas.
+📌 Desenvolvimento Full Stack: Construindo aplicações escaláveis com Next.js e integração de serviços de Backend-as-a-Service (Supabase/Firebase).
+📌 Boas Práticas: Aplicando Clean Code, organização modular de pastas e versionamento semântico com Git em projetos reais e de portfólio.
 
 ---
 
