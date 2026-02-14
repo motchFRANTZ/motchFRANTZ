@@ -12,22 +12,26 @@ Também desenvolvo projetos pessoais com **Python**, utilizando **Django** e **F
 ---
 
 ### 🚀 O que estou fazendo agora
-📌 Front-end Avançado: Aprofundando em React (Hooks, Context API, Design Patterns) e gerenciamento de estado complexo com React Query e Redux.
-📌 Arquitetura & Engenharia: Estudando o funcionamento interno do React (Reconciliation e Virtual DOM) para garantir performance e renderizações otimizadas.
-📌 Desenvolvimento Full Stack: Construindo aplicações escaláveis com Next.js e integração de serviços de Backend-as-a-Service (Supabase/Firebase).
-📌 Boas Práticas: Aplicando Clean Code, organização modular de pastas e versionamento semântico com Git em projetos reais e de portfólio.
+
+📌 **Front-end Avançado:** Aprofundando em React (Hooks, Context API, Design Patterns) e gerenciamento de estado complexo com React Query e Redux.
+
+📌 **Arquitetura & Engenharia:** Estudando o funcionamento interno do React (Reconciliation e Virtual DOM) para garantir performance e renderizações otimizadas.
+
+📌 **Desenvolvimento Full Stack:** Construindo aplicações escaláveis com Next.js e integração de serviços de Backend-as-a-Service (Supabase/Firebase).
+
+📌 **Boas Práticas:** Aplicando Clean Code, organização modular de pastas e versionamento semântico com Git em projetos reais e de portfólio.
 
 ---
 
 ### 📊 Estatísticas no GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=motchFRANTZ&show_icons=true&theme=gruvbox_light&count_private=true)](https://github.com/motchFRANTZ)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=motchFRANTZ&show_icons=true&theme=gruvbox_light&count_private=true)](https://github.com/motchFRANTZ)
 
 <br>
 
 ### 🧠 Tecnologias & Ferramentas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=motchFRANTZ&layout=compact&theme=gruvbox_light&langs_count=8)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=motchFRANTZ&layout=compact&theme=gruvbox_light&langs_count=8)
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
   <img title="React" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
